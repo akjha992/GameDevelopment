@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\gameplay\GameplayController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\gameplay\Jar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\main\background.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameplay\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\main\high_score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\main\start_button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameplay\GameplayController.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\gameplay\Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameplay\ObjectManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
